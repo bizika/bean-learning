@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.tan</groupId>
-    <artifactId>bean-learning</artifactId>
+    <artifactId>beanlearning</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>bean-learning</name>
+    <name>beanlearning</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
