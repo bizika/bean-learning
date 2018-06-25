@@ -1,4 +1,4 @@
-package com.tan.beanlearning;
+package com.tan.beanlearning.config;
 
 import com.tan.beanlearning.service.ICar;
 import com.tan.beanlearning.service.impl.QQCar;
